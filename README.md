@@ -1,4 +1,4 @@
-# 📊 Optimizing IT Support Team Performance Using Analytics
+# Title : 📊 Optimizing IT Support Team Performance Using Analytics
 
 ## 📌 Project Overview
 This project focuses on analyzing IT support team data to identify performance gaps, improve operational efficiency, and optimize ticket resolution processes using data visualization and analytics.
@@ -49,27 +49,13 @@ The dataset used in this project contains IT support ticket information, includi
 
 ## 🔍 Key Insights
 
-After analyzing the dataset using Power BI, the following insights were identified:
 
-1. High-priority tickets had longer average resolution times.
-2. Certain technicians were overloaded compared to others.
-3. SLA violations were mostly observed during peak ticket volume periods.
-4. Some issue categories contributed to repeated delays.
-5. Inconsistent ticket categorization initially affected performance metrics.
-6. First response time significantly impacted customer satisfaction.
 
 ---
 
 ## 💡 Recommendations
 
-Based on the analysis, the following improvements are suggested:
 
-- Implement workload balancing among technicians.
-- Prioritize high-impact issue categories with predefined solutions.
-- Improve SLA monitoring dashboards for real-time tracking.
-- Automate ticket categorization to reduce manual errors.
-- Introduce performance tracking KPIs for each support agent.
-- Schedule additional staffing during peak hours.
 
 ---
 
@@ -98,6 +84,3 @@ This project demonstrates how structured data cleaning and visualization can hel
 ## 👨‍💻 Author
 
 Prabhakar Kumar Shahi  
-B.Tech - Information Technology  
-Guru Ghasidas Vishwavidyalaya  
-Intern – Infosys Springboard  
