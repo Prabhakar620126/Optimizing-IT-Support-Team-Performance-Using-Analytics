@@ -23,18 +23,29 @@ The goal of this project is to use analytics and data visualization techniques t
 
 ## 📂 Dataset Description
 
-The dataset used in this project contains IT support ticket information, including:
+The dataset used in this project represents customer support / IT helpdesk tickets generated when customers face issues with purchased products or services. Each record corresponds to a single support ticket and contains customer information, ticket details, response metrics, and satisfaction feedback.
 
-- Ticket ID
-- Issue Category
-- Priority Level (Low, Medium, High)
-- Ticket Status (Open, Closed, In Progress)
-- Assigned Technician
-- Created Date
-- Resolved Date
-- Resolution Time
-- SLA Status
-- Customer Feedback Score
+This dataset helps analyze support team efficiency, response time, resolution time, and customer satisfaction, which are key indicators for optimizing IT support team performance.
+
+### 📊 Dataset Columns
+Column Name	Description
+- Ticket ID: 	Unique identifier assigned to each support ticket. It helps track and manage individual support requests.
+- Customer Name :	Name of the customer who raised the support ticket.
+- Customer Email:	Email address of the customer used for communication regarding the ticket.
+- Customer Age :	Age of the customer who submitted the support request. This can be useful for demographic analysis.
+- Customer Gender:	Gender of the customer submitting the support request.
+- Product Purchased:	The product or service purchased by the customer that is related to the support issue.
+- Date of Purchase :	The date when the product or service was purchased.
+- Ticket Type	: Category of the support request such as technical issue, billing issue, product inquiry, or service request.
+- Ticket Subject	: Short summary or title describing the issue reported by the customer.
+- Ticket Description :	Detailed explanation of the problem provided by the customer.
+- Ticket Status :	Current status of the support ticket (e.g., Open, In Progress, Resolved, Closed).
+- Resolution :	Description of the solution provided by the support team to resolve the issue.
+- Ticket Priority :	Priority level assigned to the ticket (Low, Medium, High, Critical) based on urgency.
+- Ticket Channel :	Communication channel through which the ticket was raised, such as Email, Phone, Chat, or Web Portal.
+- First Response Time:	Time taken by the support team to respond to the ticket after it was created.
+- Time to Resolution :	Total time required to completely resolve the support ticket.
+- Customer Satisfaction Rating :	Rating provided by the customer after the issue is resolved, indicating their satisfaction with the support service.
 
 ### 🧹 Data Preprocessing Steps:
 - Removed duplicate records
