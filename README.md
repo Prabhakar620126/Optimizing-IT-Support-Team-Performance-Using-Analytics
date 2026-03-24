@@ -20,26 +20,7 @@ IT support teams often handle large volumes of service tickets daily. However, o
 The goal of this project is to use analytics and data visualization techniques to identify inefficiencies and provide data-driven recommendations to improve IT support team performance.
 
 ---
-## Tree Diagram 
-## 📁 Project Structure
 
-Optimizing-IT-Support-Team-Performance-Using-Analytics/
-│
-├── README.md
-├── data/
-│   ├── raw_data/
-│   └── processed_data/
-├── dashboard/
-│   ├── IT_Support_Performance_Dashboard.pbix
-│   └── dashboard_screenshots/
-├── reports/
-│   ├── Week_1_Internship_Documentation.docx
-│   ├── Week_2_Internship_Documentation.docx
-│   ├── Week_3_Internship_Documentation.docx
-│   └── final_project_report.pdf
-├── images/
-├── docs/
-└── presentation/
 
 ## 📂 Dataset Description
 
